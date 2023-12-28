@@ -15,7 +15,7 @@ You need to know:
 - How to create Composable functions.
 - How to use architecture components including ViewModel.
 - How to use coroutines for long-running tasks.
-- Familiarity with lazy grid
+- Familiarity with lazy gridd
 
 Getting Started
 ---------------
