@@ -44,7 +44,7 @@ fun HomeScreen(
         }
         is MarsUiState.Success -> {
             ResultScreen(
-                marsUiState.photos, modifier = modifier.fillMaxWidth()
+                marsUiState.photos.toString(), modifier = modifier.fillMaxWidth()
             )
         }
 
